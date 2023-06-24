@@ -3,8 +3,8 @@
 ### 1. start 
 npm install
 
-### edit .env file 
+### 2. edit .env file 
 
-TOKEN = discord token
-API_KEY = openai api
-CHANNEL_ID = channel id discord
+#### TOKEN = discord token
+#### API_KEY = openai api
+#### CHANNEL_ID = channel id discord
